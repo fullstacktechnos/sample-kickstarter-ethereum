@@ -1,1 +1,1 @@
-Sample Dapp
+Sample kickstarter dapp built over etherium smart contract
